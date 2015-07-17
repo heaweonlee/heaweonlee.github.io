@@ -88,6 +88,7 @@ footer{
  	width:160px;
  	margin-top:15px;
  }
+
 /* Responsive Styling */
 
 @media (max-width: 1199px) { 
@@ -135,7 +136,7 @@ footer{
 		font-size: 18px;
 	}
 
-	footer img {
+	.footer img {
 		width: 80%;
 	}
 
